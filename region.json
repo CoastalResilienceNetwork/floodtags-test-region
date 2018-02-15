@@ -68,16 +68,6 @@
                     "title": "<img src='img/eca.png' hspace=10>Economics of Coastal Adaptation",
                     "description": "Explore current and future risks from coastal hazards and to compare the cost-effectiveness of natural and artificial adaptation solutions.",
                     "pluginName": "eca"
-                },
-                {
-                    "title": "<img src='img/flood_slr.png' hspace=10>Flood and Sea Level Rise",
-                    "description": "Shows the potential inundation effects of sea-level rise, as well as low lying areas vulnerable to storm surge.",
-                    "pluginName": "flood_slr"
-                },
-                {
-                    "title": "<img src='img/regional_planning.png' hspace=10>Regional Planning",
-                    "description": "Gulfwide and state based data layers useful for resilience planning.",
-                    "pluginName": "regional-planning"
                 }
             ],
             "partners": [
